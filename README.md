@@ -1,3 +1,3 @@
 <h4 align="center"> 
-	🚧  Projeto da Trilha React 📚 Começando com a biblioteca 🚧
+	🚧  Projeto da Trilha React 📚 Iniciando os estudos com a biblioteca 🚧
 </h4>
